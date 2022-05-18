@@ -1,4 +1,4 @@
-# workshopDoc
+# Workshop#7
 Para el workshop de esta semana vamos a conectar dos microcontroladores por medio del protocolo I2C, para el cual es necesario que un microcontrolador actúe como esclavo y el otro como maestro, también para la comunicación se necesitan la conexión de dos cables. El objetivo de esto es que un microcontrolador que actúa como esclavo reciba la señal de un sensor de temperatura y este la envié al otro microcontrolador que actúa como maestro, para validar los datos y después prender un led si la temperatura supera 30 grados centígrados,para esto se necesita un Arduino y un senor como los de las siguentes imagenes  imagen.
 
 <br>
